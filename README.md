@@ -23,11 +23,3 @@ A professional Python-based Expense Tracker application built with SQLite and Ma
 - Matplotlib
 
 ---
-
-
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/yourusername/ExpenseTracker.git
-cd ExpenseTracker
